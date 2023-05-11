@@ -84,7 +84,7 @@ import './App.css';
             return <TodoCard key={index} index={index} title={todo} clickToRemove={this.deleteItem}/>
           })}</ol>
           <p>
-            Steve react
+            Steve React
           </p>
           {/* <button>Add todo</button> */}
           <a
